@@ -2,7 +2,10 @@
 
 Ho to implement pusher notification and show the notification to your ui >>>>>>>>>>>>
 
-fist you have to add two package on pubspec.yaml.
+Remember you you need to rest(get) api from you backend developer called something like: **pusher-config**
+
+
+fist you have to add two packages on pubspec.yaml.
 
 <pre>pusher_channels_flutter: ^2.4.0</pre>
  <pre>flutter_local_notifications: ^17.1.2</pre>
