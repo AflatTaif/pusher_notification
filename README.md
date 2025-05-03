@@ -3,7 +3,7 @@
 Ho to implement pusher notification and show the notification to your ui >>>>>>>>>>>>
 fist you have to add two package on pubspec.yaml.
 
-<pre>``` bash pusher_channels_flutter: ^2.4.0 ```</pre>
+<pre>bash pusher_channels_flutter: ^2.4.0</pre>
   flutter_local_notifications: ^17.1.2
 
 the firt one is for implement pusher on yur project and the second one is for showing the notification on your device.
