@@ -173,6 +173,6 @@ class FlutterNotificationService{
 
 **and here is the ui where you show the notification on the screen**
  
-
+- [Notification Screen](lib/notification_screen.dart)
 
 remember you can make the ui screen as you want.
