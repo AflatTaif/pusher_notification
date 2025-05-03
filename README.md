@@ -45,6 +45,14 @@ make sure you have rest api for this implementation. And backend developer gives
  
 - [Notification Screen](lib/notification_screen.dart)
 
+
+***and you have to add this to lines on the main.dart in main function***
+
+FlutterNotificationService().initNotification();
+
+Get.put(PusherController());
+
+
 remember you can make the ui screen as you want.
 
 
