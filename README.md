@@ -12,4 +12,4 @@ now you have to add this line below on your **AndroidManifext.xml** file under p
 the file location is: **your_project> android> app> src> main> AndroidManifest.xml.**
 
 and the line is:
-    **<uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>**
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
