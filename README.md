@@ -9,7 +9,8 @@ fist you have to add two package on pubspec.yaml.
 
 the firt one is for implement pusher on yur project and the second one is for showing the notification on your device.
 
-now you have to add this line below on your **AndroidManifext.xml** file under permissions. 
+now you have to add this line below on your **AndroidManifext.xml** file under permissions.
+
 the file location is: **your_project> android> app> src> main> AndroidManifest.xml.**
 
 and the line is:
@@ -19,7 +20,9 @@ and the line is:
 
 when notification shows on top you see there have a logo.
 to set this logo you have to paste the logo/image on this location.
+
 **your_project> android> app> src> main> res> drawable**
+
 on the drawable folder paste the logo/image file.
 
 
