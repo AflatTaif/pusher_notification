@@ -49,7 +49,8 @@ remember you can make the ui screen as you want.
 
 
 
-
+you can also follow this notification for more details implementation pusher notification
+https://medium.com/@ravipatel84184/integrating-local-notifications-in-flutter-using-flutter-local-notifications-package-3951c5fc21cd
 
 
 
